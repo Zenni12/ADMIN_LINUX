@@ -1,0 +1,7 @@
+[Unit]
+Description=Helios : detection d'echecs SSH et blocage
+After=sshd.service firewalld.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/sbin/helios-watch-auth.sh

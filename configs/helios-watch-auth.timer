@@ -1,0 +1,10 @@
+[Unit]
+Description=Declenchement toutes les 2 minutes de helios-watch-auth
+
+[Timer]
+OnCalendar=*:0/2
+Persistent=no
+AccuracySec=10s
+
+[Install]
+WantedBy=timers.target
