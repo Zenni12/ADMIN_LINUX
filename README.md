@@ -1,14 +1,14 @@
 TP Linux
 
--Ce dossier contient les TP du serveur Helios.
+-Ce Github contient les TPs du serveur Helios.
 
 Fichiers
 
-TP Finale.pdf et TP Finale.docx. Mise en production du portail.
+-TP Finale.pdf et TP Finale.docx. Mise en production du portail.
 
-TP 2.pdf. Comptes mots de passe et droits.
+-TP 2.pdf. Comptes mots de passe et droits.
 
-TP 3.pdf. Pare feu et SSH.
+-TP 3.pdf. Pare feu et SSH.
 
 Dossier annexes. Fichiers de configuration du TP1.
 
